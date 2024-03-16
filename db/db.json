@@ -1,0 +1,34 @@
+{
+  "users": [
+    {
+      "id": "353a",
+      "name": "Nazim",
+      "email": "nazim@mail.com",
+      "password": "123456"
+    },
+    {
+      "id": "5467",
+      "name": "Nihan",
+      "email": "nihan@mail.com",
+      "password": "123456"
+    },
+    {
+      "id": "4b85",
+      "name": "Akif",
+      "email": "akif@gmail.com",
+      "password": "123456"
+    },
+    {
+      "id": "a1f8",
+      "name": "nazim",
+      "email": "na@test.com",
+      "password": "123456"
+    },
+    {
+      "id": "d717",
+      "name": "niloy",
+      "email": "niloy@test.com",
+      "password": "123"
+    }
+  ]
+}
